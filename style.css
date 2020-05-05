@@ -6,8 +6,9 @@
 
 #header
 {
-	background: #ccc;
+	background: #474747;
 	padding: 20px;
+	color: white;
 }
 
 #header h1 { margin: 0; }
