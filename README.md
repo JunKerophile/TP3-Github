@@ -1,2 +1,2 @@
 # TP3-Github
-C'est le repository du TP3 :D
+Repository de Léo Hilaire MMI1 A1
